@@ -25,4 +25,4 @@ jobs:
 
       - name: Jalankan skrip
         run: |
-         yarn install && npm start
+         npm install && npm start
