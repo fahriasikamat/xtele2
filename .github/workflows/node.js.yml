@@ -25,4 +25,4 @@ jobs:
 
       - name: Jalankan skrip
         run: |
-          npm i && npm start
+          npm i && node main.js
