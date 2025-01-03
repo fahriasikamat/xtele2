@@ -25,4 +25,4 @@ jobs:
 
       - name: Jalankan skrip
         run: |
-         npm install && npm start
+         npm install && node /home/runner/work/xtele2/main.js
